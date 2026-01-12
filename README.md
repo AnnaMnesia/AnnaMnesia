@@ -1,4 +1,4 @@
-## Hi, I'm Anna 👋
+## Hi, I'm Anna (some know me as Annasama)👋
 Frontend Developer based in Düsseldorf.
 
 I build responsive and accessible web interfaces using React, Next.js, and TypeScript, with a focus on clean UI architecture and usability.
